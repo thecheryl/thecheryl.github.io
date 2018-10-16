@@ -41,7 +41,7 @@ Each session I attended at the conference is listed below, as well as a few key 
 
 ### Padmasree Warrior, CEO, NIO
 
-- Pay attention to how the tech industry is changing. For example, the car as a platform is coming in the future
+- Pay attention to how the tech industry is changing. For example, the car as a platform is coming in the future.
 - Take positions where 70% of the time you know what you're doing, and 30% you will learn as you go
 - When you're doing well in your career, it time to look for your next opportunity
 
@@ -59,7 +59,7 @@ Each session I attended at the conference is listed below, as well as a few key 
   <img style="width: 50%" src="/assets/images/ghc18-money-is-power.jpg" />
 </div>
 
-- Money give you power, flexibility, and choice
+- Money gives you power, flexibility, and choice
 - 27% of working women are not offered 401k by employers, compared with 14% of men
 - 40% of women haven't invested in their retirement plans, compared with 33% of men
 - Proper amount of company stock to have is zero. It's better to be diversified.
