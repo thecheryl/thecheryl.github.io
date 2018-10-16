@@ -39,7 +39,7 @@ Each session I attended at the conference is listed below, as well as a few key 
 
 ## Opening Keynote
 
-### Pradmasree Warrior, CEO, NIO
+### Padmasree Warrior, CEO, NIO
 
 - Pay attention to how the tech industry is changing. For example, the car as a platform is coming in the future
 - Take positions where 70% of the time you know what you're doing, and 30% you will learn as you go
